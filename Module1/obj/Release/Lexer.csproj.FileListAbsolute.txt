@@ -1,0 +1,5 @@
+C:\Users\anaskuzn\MMCS_CS311\Module1\bin\Release\Lexer.exe.config
+C:\Users\anaskuzn\MMCS_CS311\Module1\bin\Release\Lexer.exe
+C:\Users\anaskuzn\MMCS_CS311\Module1\bin\Release\Lexer.pdb
+C:\Users\anaskuzn\MMCS_CS311\Module1\obj\Release\Lexer.exe
+C:\Users\anaskuzn\MMCS_CS311\Module1\obj\Release\Lexer.pdb

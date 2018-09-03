@@ -1,0 +1,6 @@
+C:\Users\anaskuzn\MMCS_CS311\Module1\bin\Debug\Lexer.exe.config
+C:\Users\anaskuzn\MMCS_CS311\Module1\obj\Debug\Lexer.csprojResolveAssemblyReference.cache
+C:\Users\anaskuzn\MMCS_CS311\Module1\bin\Debug\Lexer.exe
+C:\Users\anaskuzn\MMCS_CS311\Module1\bin\Debug\Lexer.pdb
+C:\Users\anaskuzn\MMCS_CS311\Module1\obj\Debug\Lexer.exe
+C:\Users\anaskuzn\MMCS_CS311\Module1\obj\Debug\Lexer.pdb
